@@ -6,7 +6,7 @@
   * @n: the number to be counting at.
   */
 
-void print_t0_98(int n)
+void print_to_98(int n)
 
 {
 	if (n >= 98)
