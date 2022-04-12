@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-  * print_t0_98 - prints all natural numbers from imput to 98.
+  * print_to_98 - prints all natural numbers from imput to 98.
   *               in order separated by a comma followed by space
   * @n: the number to be counting at.
   */
