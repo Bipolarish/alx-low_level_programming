@@ -1,4 +1,5 @@
 #include <main.h>
+#include <stdio.h>
 
 /**
   * print_t0_98 - prints all natural numbers from imput to 98.
