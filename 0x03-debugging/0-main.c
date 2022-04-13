@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * main - main
+  * main - mains file
   *
   * Return: always 0
   */
